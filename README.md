@@ -30,3 +30,19 @@
 ## git config -- global core.editor <editor or choice> - set your global
 
 ## git commit --amend -m "<new message>" - changes the commit message of the last commit to new message provided
+
+## git commit --amend - if ypu forgot to add a file or you have a misspelling in your commit messag.
+
+## git commit --reset head < filename> - moves the stage file from the straging area to the working directory 
+
+
+
+## git branch <branchname> - create a new branch with the given name
+
+## git checkout <branchname> - switch to new branch
+
+## git checkout -b <branchname> - create new branch and switch to it
+
+## git -d <branchname> - delete exsisting branch
+
+## git 
