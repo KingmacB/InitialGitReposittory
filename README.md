@@ -1,3 +1,4 @@
+
 # Command Line Definitions 
 
 ## cd - change directory
@@ -19,3 +20,13 @@
 ## git add <filename> - moves a modified file to the staging area
 
 ## git commit -m "<message>" - moves staged files to the Git Directory and lables the commit with a message for other developers
+
+## git config --global user.name - change or set global username
+
+## git config --global user.email - change or set global email address
+
+## git config -- global --list - displays your global settings
+
+## git config -- global core.editor <editor or choice> - set your global
+
+## git commit --amend -m "<new message>" - changes the commit message of the last commit to new message provided
