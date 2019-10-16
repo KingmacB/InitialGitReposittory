@@ -41,8 +41,12 @@
 
 ## git checkout <branchname> - switch to new branch
 
+## git branch - list all of your branches including the one your on
+
 ## git checkout -b <branchname> - create new branch and switch to it
 
 ## git -d <branchname> - delete exsisting branch
 
-## git 
+## git checkout -- <filename> moves a file from the staging are back to the working directory, or unstages it
+
+## git merge - <branchname> - merges the history two branches into one branch to become the master branch
