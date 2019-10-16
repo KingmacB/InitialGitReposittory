@@ -50,3 +50,7 @@
 ## git checkout -- <filename> moves a file from the staging are back to the working directory, or unstages it
 
 ## git merge - <branchname> - merges the history two branches into one branch to become the master branch
+
+## merge steps - checkout the branch we want to merge changes into 
+
+## git merge <branch w/ changes> gets the branch in order with changes made
